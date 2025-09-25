@@ -17,8 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/yashlahase/leetcodeque/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/yashlahase/leetcodeque/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
