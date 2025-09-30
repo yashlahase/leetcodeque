@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashlahase/leetcodeque/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
 | [0135-candy](https://github.com/yashlahase/leetcodeque/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
