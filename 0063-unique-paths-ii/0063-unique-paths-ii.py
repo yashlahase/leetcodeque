@@ -9,7 +9,6 @@ class Solution(object):
             return 0
         n = len(obstacleGrid[0])
 
-        # If start or end blocked, no path
         if obstacleGrid[0][0] == 1 or obstacleGrid[m-1][n-1] == 1:
             return 0
 
