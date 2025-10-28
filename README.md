@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashlahase/leetcodeque/tree/master/0064-minimum-path-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/yashlahase/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/yashlahase/leetcodeque/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashlahase/leetcodeque/tree/master/0064-minimum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashlahase/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashlahase/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
