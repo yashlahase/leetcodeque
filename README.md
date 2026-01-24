@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yashlahase/leetcodeque/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/yashlahase/leetcodeque/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/yashlahase/leetcodeque/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
