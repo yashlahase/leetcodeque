@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yashlahase/leetcodeque/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3637-trionic-array-i) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1200-minimum-absolute-difference](https://github.com/yashlahase/leetcodeque/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yashlahase/leetcodeque/tree/master/3634-minimum-removals-to-balance-array) |
 ## Matrix
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/yashlahase/leetcodeque/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
