@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/yashlahase/leetcodeque/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/yashlahase/leetcodeque/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yashlahase/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/yashlahase/leetcodeque/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/yashlahase/leetcodeque/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3719-longest-balanced-subarray-i](https://github.com/yashlahase/leetcodeque/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yashlahase/leetcodeque/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/yashlahase/leetcodeque/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/yashlahase/leetcodeque/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
