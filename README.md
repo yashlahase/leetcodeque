@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashlahase/leetcodeque/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashlahase/leetcodeque/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashlahase/leetcodeque/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashlahase/leetcodeque/tree/master/0015-3sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashlahase/leetcodeque/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1200-minimum-absolute-difference](https://github.com/yashlahase/leetcodeque/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashlahase/leetcodeque/tree/master/0015-3sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
