@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
+| [1925-count-square-sum-triples](https://github.com/yashlahase/leetcodeque/tree/master/1925-count-square-sum-triples) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/yashlahase/leetcodeque/tree/master/1925-count-square-sum-triples) |
 | [3713-longest-balanced-substring-i](https://github.com/yashlahase/leetcodeque/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
