@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashlahase/leetcodeque/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashlahase/leetcodeque/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yashlahase/leetcodeque/tree/master/0131-palindrome-partitioning) |
+| [0799-champagne-tower](https://github.com/yashlahase/leetcodeque/tree/master/0799-champagne-tower) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yashlahase/leetcodeque/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Backtracking
 |  |
