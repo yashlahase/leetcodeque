@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/yashlahase/leetcodeque/tree/master/0131-palindrome-partitioning) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashlahase/leetcodeque/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yashlahase/leetcodeque/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [1925-count-square-sum-triples](https://github.com/yashlahase/leetcodeque/tree/master/1925-count-square-sum-triples) |
 ## Sliding Window
 |  |
