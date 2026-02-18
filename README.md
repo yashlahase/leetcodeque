@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
+| [0693-binary-number-with-alternating-bits](https://github.com/yashlahase/leetcodeque/tree/master/0693-binary-number-with-alternating-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
