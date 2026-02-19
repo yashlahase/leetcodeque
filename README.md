@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/yashlahase/leetcodeque/tree/master/0131-palindrome-partitioning) |
+| [0696-count-binary-substrings](https://github.com/yashlahase/leetcodeque/tree/master/0696-count-binary-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashlahase/leetcodeque/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yashlahase/leetcodeque/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/yashlahase/leetcodeque/tree/master/3713-longest-balanced-substring-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashlahase/leetcodeque/tree/master/0015-3sum) |
+| [0696-count-binary-substrings](https://github.com/yashlahase/leetcodeque/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashlahase/leetcodeque/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
