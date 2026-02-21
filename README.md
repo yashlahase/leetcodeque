@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashlahase/leetcodeque/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashlahase/leetcodeque/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashlahase/leetcodeque/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1925-count-square-sum-triples](https://github.com/yashlahase/leetcodeque/tree/master/1925-count-square-sum-triples) |
 ## Sliding Window
 |  |
