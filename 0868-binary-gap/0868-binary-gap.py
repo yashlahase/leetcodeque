@@ -1,15 +1,13 @@
 class Solution(object):
     def binaryGap(self, n):
-        last = -1      # position of last seen 1
+        b = bin(n)[2:]
+        last = None
         max_gap = 0
-        position = 0
 
-        while n > 0:
-            if n & 1:   # check if current bit is 1
-                if last != -1:
-                    max_gap = max(max_gap, position - last)
-                last = position
-            n >>= 1
-            position += 1
+        for i in range(len(b)):
+            if b[i] == '1':
+                if last is not None:
+                    max_gap = max(max_gap, i - last)
+                last = i
 
         return max_gap
