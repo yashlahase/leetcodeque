@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashlahase/leetcodeque/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/yashlahase/leetcodeque/tree/master/0131-palindrome-partitioning) |
 | [0696-count-binary-substrings](https://github.com/yashlahase/leetcodeque/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashlahase/leetcodeque/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashlahase/leetcodeque/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yashlahase/leetcodeque/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/yashlahase/leetcodeque/tree/master/3713-longest-balanced-substring-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashlahase/leetcodeque/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/yashlahase/leetcodeque/tree/master/0128-longest-consecutive-sequence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashlahase/leetcodeque/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashlahase/leetcodeque/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/yashlahase/leetcodeque/tree/master/3713-longest-balanced-substring-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/yashlahase/leetcodeque/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/yashlahase/leetcodeque/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/yashlahase/leetcodeque/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashlahase/leetcodeque/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashlahase/leetcodeque/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/yashlahase/leetcodeque/tree/master/1925-count-square-sum-triples) |
 | [3713-longest-balanced-substring-i](https://github.com/yashlahase/leetcodeque/tree/master/3713-longest-balanced-substring-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashlahase/leetcodeque/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashlahase/leetcodeque/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
